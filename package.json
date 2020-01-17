@@ -1,0 +1,21 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "backendProject",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon index.js"
+    },
+    "author": "Jefferson Gomes dos Santos",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.1",
+        "express": "^4.17.1",
+        "mon": "0.0.8",
+        "mongoose": "^5.8.7",
+        "node": "^13.6.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
